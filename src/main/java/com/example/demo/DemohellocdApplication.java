@@ -19,16 +19,4 @@ public class HellocdApplication {
 		SpringApplication.run(HellocdApplication.class, args);
 	}
 
-}package com.example.demo;
-
-import org.springframework.boot.SpringApplication;
-import org.springframework.boot.autoconfigure.SpringBootApplication;
-
-@SpringBootApplication
-public class DemohellocdApplication {
-
-	public static void main(String[] args) {
-		SpringApplication.run(DemohellocdApplication.class, args);
-	}
-
 }
